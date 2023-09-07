@@ -1,4 +1,4 @@
-![logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif)
+![logo](https://i.gifer.com/embedded/download/1Cr1.gif)
 
 
 
