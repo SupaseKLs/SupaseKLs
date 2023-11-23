@@ -2,8 +2,8 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning web and mobile developer(Front/Back-end)
-
+🌱 I’m currently learning Full Stack Developer and Mobile Developer.
+🌐 I'm studying at King mongkut's university of technology thonburi.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/supasek.laobutsa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/skubb___/) 
