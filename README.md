@@ -1,5 +1,4 @@
-![logo](https://i.pinimg.com/originals/32/2c/a1/322ca12a94caec419c52939f31089000.gif)
-
+![logo](https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 
 # 💫 About Me:
