@@ -1,6 +1,5 @@
 ![logo](https://media4.giphy.com/media/S2IfEQqgWc0AH4r6Al/giphy.gif?cid=6c09b952mv67c0s5cmcusjdrttvsvng2dsxxu92gxzd47ekh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
-
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Developer and Mobile Developer.
 🌐 I'm studying at King mongkut's university of technology thonburi.
