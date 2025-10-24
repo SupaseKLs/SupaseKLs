@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supasek Laobutsa
 ========================================================================================================================================
 
-Front-End Developer, UX/UI Designer
+FullStack Developer, UX/UI Designer
 -----------------------------------
 
-Welcome to my creative space! Here, you’ll discover my work in UX/UI design and Front-end development.Explore my projects!"
+Welcome to my creative space! Here,I'm Looking Software enginner for internshio, you’ll discover my work in UX/UI design and FullStack development.Explore my projects!"
 
 * 🌍  I'm based in Samut prakan
 * 🖥️  See my portfolio at [ssss.com](http://webfolio-s.vercel.app/)
