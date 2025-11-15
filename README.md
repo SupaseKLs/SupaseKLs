@@ -9,8 +9,8 @@ FullStack Developer, UX/UI Designer
 Welcome to my creative space! Here, I'm Looking Software enginner for internship, you’ll discover my work in UX/UI design and FullStack development. Explore my projects!"
 
 # 💫 About Me:
-• I'm based in Samut prakan<br>✉️  You can contact me at laobutsasupasek@gmail.com<br>🧠  I'm learning Nextjs, Golang, Nodejs, GraphQL, Machine Learning, Cloud, PostgreSQL , Web Socket, Supabase, Docker<br>🤝  I'm open to collaborating on Web-based Accident Reporting System, Front-end Development, Innovation
-• Google Developer Group on Campus KMUTT - Academic Team Member
+• I'm based in Samut prakan<br>✉️  You can contact me at laobutsasupasek@gmail.com<br>🧠  I'm learning Nextjs, Golang, Nodejs, GraphQL, Machine Learning, Cloud, PostgreSQL , Web Socket, Supabase, Docker<br>🤝  I'm open to collaborating on Web-based Accident Reporting System, Front-end Development, Innovation<br>
+• Google Developer Group on Campus KMUTT - Academic Team Member<br>
 • Participated in Google Developer Group (GDG) events and Hackathon 2024 - 2025 in Thailand for learning and connecting with the community
 
 # 💻 Tech Stack:
