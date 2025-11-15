@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer, UX/UI Designer
 -----------------------------------
 
-Welcome to my creative space! Here,I'm Looking Software enginner for internshio, you’ll discover my work in UX/UI design and FullStack development.Explore my projects!"
+Welcome to my creative space! Here, I'm Looking Software enginner for internship, you’ll discover my work in UX/UI design and FullStack development. Explore my projects!"
 
 # 💫 About Me:
  I'm based in Samut prakan<br>🖥️  See my portfolio at ssss.com<br>✉️  You can contact me at laobutsasupasek@gmail.com<br>🧠  I'm learning Nextjs, Golang, Nodejs, GraphQL, Machine Learning, Cloud, PostgreSQL , Web Socket, Supabase, Docker<br>🤝  I'm open to collaborating on Web-based Accident Reporting System, Front-end Development, Innovation
