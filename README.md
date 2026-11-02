@@ -1,4 +1,4 @@
-![logo]([https://i.giphy.com/media/dfkXw8NbkkxsQ/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2EzenlkYWdjajB3bmFnejBwZTFzdGFlODdhdzg5bDhyN2Fmc3hqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wl8OeD1gqUe4M/giphy.gif))
+![logo]([https://i.giphy.com/media/dfkXw8NbkkxsQ/giphy.gif])
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supasek Laobutsa
 ========================================================================================================================================
